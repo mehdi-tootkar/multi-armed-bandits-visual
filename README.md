@@ -1,8 +1,3 @@
-Here is a **clean, modern, styled, professional-looking README section** based on your content — still human-written, still simple, but visually structured and portfolio-friendly.
-
-You can paste this directly into your README.
-
----
 
 # Multi-Armed Bandit Visualizer
 
@@ -46,6 +41,4 @@ This plot shows the cumulative average reward over time. It reflects how quickly
 ![Arm Counts](results/arm_counts.png)
 
 This bar chart displays how often each arm was selected during the simulation, offering insight into exploration patterns and the algorithm’s confidence in its estimates.
-
----
 
